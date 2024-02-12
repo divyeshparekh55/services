@@ -141,6 +141,16 @@ https://templatemo.com/tm-589-lugx-gaming
           <a href="#">
             <div class="item">
               <div class="image">
+                <img src="{{url('frontend/assets/images/featured-03.png')}}" alt="" style="max-width: 44px;">
+              </div>
+              <h4>Reply Ready</h4>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <a href="#">
+            <div class="item">
+              <div class="image">
                 <img src="{{url('frontend/assets/images/featured-04.png')}}" alt="" style="max-width: 44px;">
               </div>
               <h4>Easy Layout</h4>
